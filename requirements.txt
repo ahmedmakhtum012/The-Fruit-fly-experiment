@@ -1,2 +1,5 @@
 neuprint-python
 python-dotenv
+pillow
+selenium
+webdriver-manager
